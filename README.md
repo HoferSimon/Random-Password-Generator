@@ -4,7 +4,7 @@ Random Password Generator
 
 Description:
 
-A C# Console Program that will create a Random Password for you
+A C# Console Program that will create a Random Password
 
 State:
 
